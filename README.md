@@ -37,5 +37,11 @@ Se desejar apenas visualizar o jupyter notebook, basta ver o arquivo [darksoulsn
 Se você tiver docker na sua máquina tudo fica mais fácil. Basta executar o comando `docker-compose up` e o ambiente estará em funcionamento.
   
   * Para acessar o jupyter notebook basta ir até http://localhost:8888/ (o token de autenticação é exposto no terminal ao rodar o compose-up)
+  
+  
+ ## Instruções de execução
+ 
+ Basta seguir o notebook executando cada uma das células. Você pode executar uma célula pelo menu no topo do notebook ou apertando Ctrl + Enter com a célula selecionada.
+
 
 
