@@ -1,6 +1,3 @@
-Flask
-requests
 numpy
 matplotlib
 networkx
-bootstrap-flask
