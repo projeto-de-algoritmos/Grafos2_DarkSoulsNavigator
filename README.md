@@ -17,8 +17,9 @@ Mais que isso, essa ideia também será usada para indicar ao jogador qual camin
 
 ## Screenshots
 ### Jupyter notebook
-<img style="max-width: 800px" src="notebook1.png">
-<img style="max-width: 800px" src="notebook2.png">
+<img style="max-width: 800px" src="assets/notebook1.png">
+<img style="max-width: 800px" src="assets/notebook2.png">
+<img style="max-width: 800px" src="assets/notebook3.png">
 
 ## Instalação 
 **Linguagem**: Python >= 3.8 <br>
@@ -36,5 +37,11 @@ Se desejar apenas visualizar o jupyter notebook, basta ver o arquivo [darksoulsn
 Se você tiver docker na sua máquina tudo fica mais fácil. Basta executar o comando `docker-compose up` e o ambiente estará em funcionamento.
   
   * Para acessar o jupyter notebook basta ir até http://localhost:8888/ (o token de autenticação é exposto no terminal ao rodar o compose-up)
+  
+  
+ ## Instruções de execução
+ 
+ Basta seguir o notebook executando cada uma das células. Você pode executar uma célula pelo menu no topo do notebook ou apertando Ctrl + Enter com a célula selecionada.
+
 
 
