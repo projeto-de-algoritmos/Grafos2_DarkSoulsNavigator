@@ -42,6 +42,6 @@ Se você tiver docker na sua máquina tudo fica mais fácil. Basta executar o co
  ## Instruções de execução
  
  Basta seguir o notebook executando cada uma das células. Você pode executar uma célula pelo menu no topo do notebook ou apertando Ctrl + Enter com a célula selecionada.
-
+ Instruções adicionais podem ser encontradas no vídeo.
 
 
