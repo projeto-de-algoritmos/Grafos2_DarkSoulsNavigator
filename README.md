@@ -17,8 +17,9 @@ Mais que isso, essa ideia também será usada para indicar ao jogador qual camin
 
 ## Screenshots
 ### Jupyter notebook
-<img style="max-width: 800px" src="notebook1.png">
-<img style="max-width: 800px" src="notebook2.png">
+<img style="max-width: 800px" src="assets/notebook1.png">
+<img style="max-width: 800px" src="assets/notebook2.png">
+<img style="max-width: 800px" src="assets/notebook3.png">
 
 ## Instalação 
 **Linguagem**: Python >= 3.8 <br>
