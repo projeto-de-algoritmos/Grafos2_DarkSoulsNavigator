@@ -28,7 +28,7 @@ Mais que isso, essa ideia também será usada para indicar ao jogador qual camin
 O projeto foi feito através do Jupyter notebook, que reune em um só lugar todo o código e a explicação de cada uma das etapas. 
 Para executar/visualizar o notebook basta instalar o jupyter notebook na sua maquina através das instruções dispostas na seção "Getting started with the classic Jupyter Notebook" [aqui](https://jupyter.org/install). [Você também pode executar o jupyter notebook através do navegador](https://mybinder.org/v2/gh/ipython/ipython-in-depth/master?filepath=binder/Index.ipynb) (não recomendado) ou utilizar o docker (opção mais fácil), seguindo as instruções mais abaixo.
 
-Se desejar apenas visualizar o jupyter notebook, basta ver o arquivo [wherearemykeys.ipynb](https://github.com/projeto-de-algoritmos/Grafos1_SongRecommendation/blob/master/songs_recommendation.ipynb) pelo próprio GitHub.
+Se desejar apenas visualizar o jupyter notebook, basta ver o arquivo [darksoulsnavigator.ipynb](https://github.com/projeto-de-algoritmos/Grafos1_SongRecommendation/blob/master/songs_recommendation.ipynb) pelo próprio GitHub.
 
 
 ## Instalação com Docker
