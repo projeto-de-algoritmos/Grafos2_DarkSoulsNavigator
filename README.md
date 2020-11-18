@@ -1,4 +1,4 @@
-# Grafos1_SongRecommendation
+# Grafos2_DarkSoulsNavigator 
 
 **Número da Lista**: 2<br>
 **Conteúdo da Disciplina**: Grafos 1 e Grafos 2<br>
